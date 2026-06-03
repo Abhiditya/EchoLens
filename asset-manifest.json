@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/EchoLens/static/css/main.233b3b67.css",
-    "main.js": "/EchoLens/static/js/main.e23580cf.js",
+    "main.js": "/EchoLens/static/js/main.d0d847e6.js",
     "index.html": "/EchoLens/index.html",
     "main.233b3b67.css.map": "/EchoLens/static/css/main.233b3b67.css.map",
-    "main.e23580cf.js.map": "/EchoLens/static/js/main.e23580cf.js.map"
+    "main.d0d847e6.js.map": "/EchoLens/static/js/main.d0d847e6.js.map"
   },
   "entrypoints": [
     "static/css/main.233b3b67.css",
-    "static/js/main.e23580cf.js"
+    "static/js/main.d0d847e6.js"
   ]
 }
